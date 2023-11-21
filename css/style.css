@@ -1,0 +1,10 @@
+.me-2 {
+    border-radius: 8px;
+    border-color: rgb(199, 193, 193);
+}
+.cards {
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    gap: 50px;
+}
